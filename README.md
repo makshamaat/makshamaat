@@ -1,2 +1,1 @@
-rm
-echo "# 1040-vrm" >> README.md
+https://raw.githubusercontent.com/makshamaat/RepoName/branch(main or master)/file.vrm
